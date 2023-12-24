@@ -1,6 +1,0 @@
-- ljlskdflsdk
-- klkj
-print(9)
-import pandas
-
-import numpy
